@@ -24,6 +24,6 @@ body:
     attributes:
       label: Participantes
       description: Lista os prováveis participantes da equipe neste Issue.
-      options: [@splor-mg/aid, @labanca, @carloshob, @gabrielbdornas, @hslinhares]
+      options: ['@splor-mg/aid', '@labanca', '@carloshob', '@gabrielbdornas', '@hslinhares']
       multiple: true
 
