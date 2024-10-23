@@ -3,6 +3,7 @@ name: Ata de reunião
 about: O objetivo principal deste issue template é auxiliar na elaboração de atas de reunião.
 title: '[DD/MM/AAAA] Reunião XXXXX'
 labels: 'reuniao'
+projects: ['splor-mg/13']
 assignees: ''
 ---
 [Gravação do encontro]().
