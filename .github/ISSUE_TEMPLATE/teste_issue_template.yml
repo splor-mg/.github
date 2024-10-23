@@ -1,5 +1,5 @@
-name: AID Issue template.
-description: AID Issue template.
+name: Issue template AID.
+description: Issue template AID.
 projects: ["splor-mg/13"]
 body:
   - type: textarea
@@ -13,7 +13,7 @@ body:
   - type: textarea
     id: atividades_correcoes
     attributes:
-      label: Lista de atividades e correções
+      label: Lista de atividades e/ou correções
       description: Liste abaixo todas as atividades e/ou correções necessárias antes do fechamento do Issue.
       value: |
         - [ ] Atividade/Correção 1
