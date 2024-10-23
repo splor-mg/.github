@@ -7,7 +7,7 @@ body:
     attributes:
       label: Descrição
       description: Descreva seu Issue com o maior número de detalhes possíveis. 
-      placeholder: Tell us what you see!
+      placeholder: Encontrei o erro / Tive a ideia / Etc...
     validations:
       required: true
   - type: textarea
@@ -19,11 +19,11 @@ body:
         - [ ] Atividade/Correção 1
         - [ ] Atividade/Correção 2
         - [ ] Atividade/Correção 3
-  - type: checkboxes
-    id: terms
+  - type: dropdown
+    id: participantes
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+      label: Participantes
+      description: Lista os prováveis participantes da equipe neste Issue.
+      options: [@splor-mg/aid, @labanca, @carloshob, @gabrielbdornas, @hslinhares]
+      multiple: true
+
