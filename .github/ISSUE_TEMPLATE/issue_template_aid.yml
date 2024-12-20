@@ -9,30 +9,27 @@ body:
         - Descrever o Issue com o maior número de detalhes. Pense que você terá que entender sem dificuldades, no futuro, o que está sendo proposto hoje.
         - Enriqueça ao máximo os metadados de seu Issue:
           - Selecione Labels sempre que achar necessário.
-          - Este template já lança o Issue criado automaticamente como status Backlog no [Board Gestão a Vista](https://github.com/orgs/splor-mg/projects/13). Reflita sobre isso e, caso necessário, atualize esta informação. 
-          - Configure todos os fields pertinentes do [Board Gestão a Vista](https://github.com/orgs/splor-mg/projects/13).
+          - Este template já lança o Issue criado automaticamente como status Backlog no [Board planner](https://github.com/users/gabrielbdornas/projects/12). Reflita sobre isso e, caso necessário, atualize esta informação. 
+          - Configure todos os fields pertinentes do [Board planner](https://github.com/users/gabrielbdornas/projects/12).
   - type: textarea
     id: descricao
     attributes:
       label: Descrição
-      description: Descreva seu Issue com o maior número de detalhes possíveis. 
-      placeholder: Encontrei o erro / Tive a ideia / Etc...
-    validations:
-      required: true
-  - type: textarea
-    id: atividades_correcoes
-    attributes:
-      label: Lista de atividades e/ou correções
-      description: Liste abaixo todas as atividades e/ou correções necessárias antes do fechamento do Issue.
+      description: |
+        Descreva seu Issue com o maior número de detalhes possíveis. 
+        Liste também, caso haja, todas as atividades e/ou correções necessárias antes do fechamento do Issue.      
       value: |
+
+
+        ### Lista de atividades e/ou correções
+        
         - [ ] Atividade/Correção 1
         - [ ] Atividade/Correção 2
         - [ ] Atividade/Correção 3
-  - type: dropdown
-    id: participantes
-    attributes:
-      label: Participantes
-      description: Lista os prováveis participantes da equipe neste Issue.
-      options: ['@splor-mg/aid', '@labanca', '@carloshob', '@gabrielbdornas', '@hslinhares']
-      multiple: true
+    
+        ### Participantes    
+
+        @splor-mg/aid, @labanca, @carloshob, @gabrielbdornas, @hslinhares
+    validations:
+      required: true
 
