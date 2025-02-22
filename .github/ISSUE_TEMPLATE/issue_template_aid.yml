@@ -30,6 +30,10 @@ body:
         ### Participantes    
 
         @splor-mg/aid, @labanca, @carloshob, @gabrielbdornas, @hslinhares
+
+        ### Linked Pull Request(s)
+
+        See #...
     validations:
       required: true
 
