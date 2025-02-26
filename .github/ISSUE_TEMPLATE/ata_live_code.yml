@@ -12,11 +12,14 @@ body:
       label: Descrição
       description: Descreva seu reunião com o maior número de detalhes possíveis.
       value: |
-        [Gravação do encontro]().
+        - [Gravação do encontro - YouTube]().
+        - [Post Handbook]().
 
-        ## Descrição
-
-        ## Ações
+        ### Ações
         - [ ] Incluir video do encontro YouTube.
-        - [ ] Incluir transcrição do vídeo em repositório GitHub.
+        - [ ] Incluir transcrição do vídeo em comentário deste Issue.
         - [ ] Incluir Post Handbook.
+
+        ### Participantes
+
+        @carloshob, @gabrielbdornas, @hslinhares, @labanca
