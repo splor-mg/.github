@@ -1,5 +1,5 @@
-name: Ata Live Code.
-description: O objetivo principal deste issue template é auxiliar na elaboração de atas de nossos encontros Live Code.
+name: Ata live code.
+description: O objetivo principal deste issue template é auxiliar na elaboração de atas de nossos encontros live code.
 title: "[DD/MM/AAAA] Live Code XXXXX"
 labels: ["reuniao"]
 projects: ["splor-mg/13"]
