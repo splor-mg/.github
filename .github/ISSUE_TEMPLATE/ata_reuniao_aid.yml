@@ -1,5 +1,5 @@
 name: Ata de reunião.
-description: O objetivo principal deste issue template é auxiliar na elaboração de atas de reunião.
+description: O objetivo principal deste issue template é auxiliar na elaboração de atas de reunião na AID.
 title: '[DD/MM/AAAA] Reunião XXXXX'
 labels: ['reuniao']
 projects: ['splor-mg/13']
@@ -22,6 +22,8 @@ body:
         ## Participantes
         - Participante 1
         - Participante 2
+        - @...
+        - @...
 
         ## Assuntos tratados
         - Tópico 1
