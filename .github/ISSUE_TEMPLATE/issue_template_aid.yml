@@ -1,6 +1,5 @@
 name: Issue template AID.
 description: O objetivo principal deste template é padronizar a abertura de Issues na AID.
-labels: ['meeting']
 projects: ['splor-mg/13']
 body:
   - type: markdown
