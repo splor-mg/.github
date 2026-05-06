@@ -36,7 +36,7 @@ transparência, qualidade técnica e colaboração.
 
 ## Diretrizes de Consequências
 
-Os mantenedores seguirão estas diretrizes ao determinar as consequências para ações
+Os responsáveis seguirão estas diretrizes ao determinar as consequências para ações
 que violem este Código[^1]. As Diretrizes de Consequências foram inspiradas pelo
 [código de conduta da Mozilla](https://github.com/mozilla/diversity)[^2].
 
