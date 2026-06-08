@@ -37,8 +37,8 @@ Issue → Branch → Desenvolvimento → Pull Request → Revisão → Merge
 ## Abrindo Issues
 
 - Pesquise nos issues existentes para evitar duplicatas.
-- Para vulnerabilidades ou informações sensíveis, **não abra um issue público** —
-  comunique diretamente o responsável.
+- Para vulnerabilidades ou informações sensíveis, **não abra um issue público**,
+  comunique diretamente o(a) responsável.
 - O título deve ser claro e orientado à ação:
   - ❌ `bug no sistema`.
   - ✅ `[BUG] Erro 500 ao tentar exportar relatório em PDF`.
@@ -69,20 +69,20 @@ Nomenclatura da branch:
 
 - Referencie o issue com `Closes #<número>` para fechamento automático.
 - Marque como **Draft** enquanto o trabalho estiver em andamento.
-- Prefira PRs pequenos e focados — PRs com muitas linhas dificultam a revisão.
+- Prefira PRs pequenos e focados, PRs com muitas linhas dificultam a revisão.
 
 
 ## Revisão de Código
 
 **Para quem revisa:**
 
-- Seja objetivo e construtivo — aponte o problema e sugira a solução quando possível.
+- Seja objetivo e construtivo, aponte o problema e sugira a solução quando possível.
 - Distingua entre bloqueantes e sugestões opcionais.
 
 **Para quem recebe a revisão:**
 
 - Responda a todos os comentários antes de solicitar nova revisão.
-- Em caso de discordância técnica, abra uma discussão — a decisão final cabe ao
+- Em caso de discordância técnica, abra uma discussão, a decisão final cabe ao
   responsável técnico do projeto.
 
 
