@@ -6,9 +6,8 @@ do trabalho desenvolvido neste repositório.
 
 ## Abrangência
 
-Aplica-se a todos que de alguma forma contribuírem para este repositório — por
-issues, pull requests, revisões de código ou qualquer outra forma de participação —
-independentemente de vínculo institucional.
+Aplica-se a todos que de alguma forma contribuírem para este repositório, seja por meio de
+issues, pull requests, revisões de código ou qualquer outra forma de participação.
 
 ## Princípios
 
@@ -17,22 +16,22 @@ transparência, qualidade técnica e colaboração.
 
 ## Condutas esperadas
 
-- Comunicar-se com respeito e objetividade em todas as interações
-- Fundamentar decisões técnicas com clareza, permitindo revisão e discussão aberta
+- Comunicar-se com respeito e objetividade em todas as interações.
+- Fundamentar decisões técnicas com clareza, permitindo revisão e discussão aberta.
 - Aceitar revisões de código como parte natural do processo colaborativo, não como
-  julgamento pessoal
+  julgamento pessoal.
 - Reportar problemas de segurança ou inconsistências de forma responsável, pelos
-  canais adequados
+  canais adequados.
 - Zelar pela qualidade e rastreabilidade das contribuições, em conformidade com o
-  `CONTRIBUTING.md`
+  `CONTRIBUTING.md`.
 
 ## Condutas vedadas
 
-- Discriminação ou assédio de qualquer natureza
-- Linguagem ofensiva, intimidadora ou desrespeitosa
+- Discriminação ou assédio de qualquer natureza.
+- Linguagem ofensiva, intimidadora ou desrespeitosa.
 - Atribuição de autorias indevidas ou omissão intencional de contribuições alheias;
-  consulte as especificações contidas no arquivo `LICENSE.md`
-- Manipulação de histórico ou registros para ocultar erros ou responsabilidades
+  consulte as especificações contidas no arquivo `LICENSE.md`.
+- Manipulação de histórico ou registros para ocultar erros ou responsabilidades.
 
 ## Diretrizes de Consequências
 
